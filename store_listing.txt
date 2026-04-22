@@ -1,0 +1,65 @@
+# Overthrone - Play Store Listing
+
+## App Title (50 chars max)
+Overthrone: Epic Hero Battle RPG
+
+## Short Description (80 chars max)
+Collect heroes, battle bosses, climb the leaderboard in this epic RPG!
+
+## Full Description (4000 chars max)
+⚔️ Welcome to Overthrone - The Ultimate Hero Battle RPG! ⚔️
+
+Build your legendary team of heroes and conquer the realm in this epic turn-based strategy RPG!
+
+🎮 FEATURES:
+
+⚔️ TURN-BASED COMBAT
+Master strategic battles with unique heroes, abilities, and faction synergies. Each hero has distinct damage types, defense styles, and ultimate abilities!
+
+🏆 STAGE PROGRESSION
+Battle through 100 challenging stages across 10 chapters. Earn 1-3 stars based on your performance - keep all heroes alive for maximum rewards!
+
+👑 BOSS RAIDS
+Challenge 5 epic bosses: Drakonis, Umbralord, Mechagod, Yggdrasil, and Voidlord. Defeat them for legendary loot and materials!
+
+💬 REAL-TIME CHAT
+Connect with players worldwide through Server, Guild, and Private chat. Send voice messages and emojis!
+
+🏅 SEASON RANKINGS
+Compete on the global leaderboard. Climb from Bronze to Champion league and prove your strength!
+
+🎰 HERO GACHA
+Summon powerful heroes with our gacha system. S+ heroes at 1.5% rate with pity at 80 pulls!
+
+🎫 SEASON PASS
+Unlock 100 tiers of rewards including exclusive skins, free heroes, crystals, and more!
+
+⚙️ RESEARCH LAB
+Upgrade your troops with long-term research projects. Speed up with premium packages!
+
+⚔️ GUILD WAR
+Join a guild and compete in weekly wars. Attack enemy bases and earn season points!
+
+💎 SHOP & VIP
+Purchase crystal packs, resource bundles, and VIP subscriptions for exclusive benefits including extra boss raids!
+
+🎨 6 UNIQUE FACTIONS
+- Elemental: Masters of magic
+- Dark: Shadow warriors
+- Nature: Forest guardians  
+- Mech: Iron titans
+- Void: Cosmic entities
+- Light: Holy champions
+
+📱 OPTIMIZED FOR MOBILE
+Beautiful UI, smooth animations, and optimized performance for all Android devices!
+
+Download now and begin your journey to the throne!
+
+---
+
+💬 Join our community:
+Discord: discord.gg/overthrone
+Support: support@overthrone.app
+
+© 2024 Overthrone. All rights reserved.

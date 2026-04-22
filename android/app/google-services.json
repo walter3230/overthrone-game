@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "855850649056",
+    "firebase_url": "https://overthrone-43b59-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "overthrone-43b59",
+    "storage_bucket": "overthrone-43b59.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855850649056:android:4fe7d3f773dfc0a62a9785",
+        "android_client_info": {
+          "package_name": "com.example.overthrone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmyVowZehyNxIsxaOMypxnExfZGTmkUu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855850649056:android:fdf43e7d52a889662a9785",
+        "android_client_info": {
+          "package_name": "com.overthrone.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmyVowZehyNxIsxaOMypxnExfZGTmkUu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
