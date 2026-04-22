@@ -1,6 +1,6 @@
 # Overthrone: Siege Realms
 
-Basit bir web tabanlı **tower defence + PvP baskın** prototipi.
+Basit bir web tabanlı **tower defence + PvP baskın** prototipi oyunudur.
 
 ## Özellikler
 - Dalga bazlı tower defence oynanışı
