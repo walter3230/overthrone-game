@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Overthrone: Siege Realms</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <h1>🏰 Overthrone: Siege Realms</h1>
+      <p>Google Play için uygun tek oyunculu + PvP Tower Defence prototipi</p>
+    </div>
+    <div class="resources">
+      <span>🪙 Altın: <strong id="gold">0</strong></span>
+      <span>💎 Ganimet: <strong id="loot">0</strong></span>
+      <span>❤️ Kale: <strong id="castleHp">100</strong></span>
+      <span>🌊 Dalga: <strong id="wave">1</strong></span>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="game-panel">
+      <canvas id="gameCanvas" width="960" height="420" aria-label="Tower defence arena"></canvas>
+      <div class="controls-row">
+        <button id="startWaveBtn">Yeni Dalga Başlat</button>
+        <button id="nextEnemySetBtn">Yeni Düşman Tipi Aç</button>
+        <button id="pvpAttackBtn">PvP Baskın Yap</button>
+      </div>
+      <p id="statusLog" class="status">Hazır. İlk dalgayı başlat!</p>
+    </section>
+
+    <aside class="sidebar">
+      <section class="card">
+        <h2>🛡️ Savunma Kuleleri</h2>
+        <p>Haritaya tıklayarak kule yerleştir. Kule maliyeti dalga ile artar.</p>
+        <ul id="towerList"></ul>
+      </section>
+
+      <section class="card">
+        <h2>🦸 Kahramanlar</h2>
+        <p>Ganimet ile kahramanlarını geliştir ve savaş gücünü artır.</p>
+        <ul id="heroList"></ul>
+      </section>
+
+      <section class="card">
+        <h2>⚔️ PvP Kuşatma</h2>
+        <p>Rakip kalelere saldır, ganimet yağmala. Başarı şansı kadrona bağlıdır.</p>
+        <div class="pvp-box">
+          <p>Rakip Kale Seviyesi: <strong id="enemyCastleLevel">1</strong></p>
+          <p>Başarı Şansı: <strong id="successChance">0%</strong></p>
+          <p id="pvpResult">Henüz saldırı yapılmadı.</p>
+        </div>
+      </section>
+    </aside>
+  </main>
+
+  <script src="main.js"></script>
+</body>
+</html>

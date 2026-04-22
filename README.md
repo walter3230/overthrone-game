@@ -1,16 +1,22 @@
-# overthrone
+=======
+# Overthrone: Siege Realms
 
-A new Flutter project.
+Basit bir web tabanlı **tower defence + PvP baskın** prototipi oyunudur.
 
-## Getting Started
+## Özellikler
+- Dalga bazlı tower defence oynanışı
+- Her yeni dalgada artan düşman gücü ve hız ölçekleme
+- Açılabilir yeni düşman türleri
+- Birden fazla kahraman (Alara, Brakk, Nyx, Korin)
+- Ganimet sistemi ve kahraman geliştirme
+- Rakip kaleye baskın atılabilen PvP modu (başarı şansı + yağma)
 
-This project is a starting point for a Flutter application.
+## Çalıştırma
+Statik dosya sunucusu ile açmanız yeterli:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+python -m http.server 8000
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ardından `http://localhost:8000` adresini ziyaret edin.
+>>>>>>> 3f1f02baf18251bcce2f69a435ee6f33e37a2331
